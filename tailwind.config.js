@@ -9,7 +9,6 @@ export default {
       fontFamily: {
         sans: ['Manrope', 'sans-serif'],
         serif: ['Cormorant Garamond', 'serif'],
-        syne: ['Syne', 'sans-serif'],
       }
     },
   },
